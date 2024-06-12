@@ -1,4 +1,4 @@
-package actividad.fibonacci.recurcion;
+package actividad.fibonacci;
 
 import java.util.Scanner;
 /**
